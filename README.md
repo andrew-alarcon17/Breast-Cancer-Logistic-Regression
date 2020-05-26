@@ -2,7 +2,7 @@
 
 ## Background
 
-As someone who is driven in understanding what the chances of a disease having serious effect on a person, I wanted to be able to dive into this dataset to understand the probabilities of breast cancer being benign or malignant based on characteristics that are focused on.
+As someone who is driven in understanding what the chances of a disease having serious effect on a person would be, I wanted to be able to dive into this dataset to understand the probabilities of breast cancer being benign or malignant based on characteristics that are focused on.
 
 ## Findings
 
