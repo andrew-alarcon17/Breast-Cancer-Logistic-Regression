@@ -1,5 +1,9 @@
 # Breast Cancer Logistic Regression
 
+## Data Description
+
+This data set contains information of 285 patients with 33 features describing their diagnosis.
+
 ## Background
 
 As someone who is driven in understanding what the chances of a disease having serious effect on a person would be, I wanted to be able to dive into this dataset to understand the probabilities of breast cancer being benign or malignant based on characteristics that will be focused on.
